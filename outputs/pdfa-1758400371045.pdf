@@ -1,0 +1,66 @@
+%PDF-1.7
+%ÅÅÅÅ
+
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [ 3 0 R ]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 200 200 ]
+/Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Length 38
+>>
+stream
+  BT /F1 24 Tf 72 128 Td (Hi) Tj ET
+  
+endstream
+endobj
+
+5 0 obj
+<<
+/Producer <FEFF00500044004600200054006F006F006C00730020005000440046002F004100200043006F006E007600650072007400650072>
+/ModDate (D:20250920203251Z)
+/Creator <FEFF00500044004600200054006F006F006C0073>
+/CreationDate (D:20250920203251Z)
+/Title <FEFF005000440046002F004100200044006F00630075006D0065006E0074>
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000016 00000 n 
+0000000066 00000 n 
+0000000126 00000 n 
+0000000216 00000 n 
+0000000305 00000 n 
+
+trailer
+<<
+/Size 6
+/Root 1 0 R
+/Info 5 0 R
+>>
+
+startxref
+629
+%%EOF
